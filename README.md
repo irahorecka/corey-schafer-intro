@@ -9,5 +9,5 @@ Run ```R/hows_it_going.R``` to make the pie chart.
 <br>
 <p align = 'left'>
 <img src=https://i.imgur.com/ZbCQp20.png alt="Corey's video introduction"
-    width=600><br>
+    width=800><br>
 </p>
