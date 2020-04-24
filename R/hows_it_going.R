@@ -9,7 +9,7 @@ uniq_intro$Var1 <- as.character(uniq_intro$Var1)
 uniq_intro$Var1[uniq_intro$Var1 == "a"] <- "Hey there how's it going, everybody."
 uniq_intro$Var1[uniq_intro$Var1 == "b"] <- "Hey how's it going, everybody."
 uniq_intro$Var1[uniq_intro$Var1 == "c"] <- "Hey everybody how's it going."
-uniq_intro$Var1[uniq_intro$Var1 == "d"] <- "Hey what's going on everybody how's it going."
+uniq_intro$Var1[uniq_intro$Var1 == "d"] <- "Hey what's going on everybody, how's it going."
 uniq_intro$Var1[uniq_intro$Var1 == "e"] <- "Hey guys how's it going."
 uniq_intro$Var1[uniq_intro$Var1 == "f"] <- "Hey what's going on, everybody."
 
